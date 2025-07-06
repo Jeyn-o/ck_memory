@@ -20,10 +20,10 @@
     "alias": []
   },
   "2684774": {
-    "name": "ThunderBlitz",
+    "name": "DONNER",
     "alias": [
-      "DONNER",
-      "HAGELSTURM"
+      "HAGELSTURM",
+      "ThunderBlitz"
     ]
   },
   "2851066": {
@@ -45,10 +45,10 @@
     "alias": []
   },
   "3514626": {
-    "name": "Lieren",
+    "name": "Lirien",
     "alias": [
-      "Lirien",
-      "LierenTheSecond"
+      "LierenTheSecond",
+      "Lieren"
     ]
   },
   "3586982": {
@@ -71,5 +71,5 @@
     "name": "think-tank",
     "alias": []
   },
-  "_lastUpdated": "2025-07-06T23:34:49.952Z"
+  "_lastUpdated": "2025-07-06T23:36:50.851Z"
 }
