@@ -20,14 +20,17 @@
     "alias": []
   },
   "2684774": {
-    "name": "DONNER",
+    "name": "HAGELSTURM",
     "alias": [
-      "ThunderBlitz"
+      "ThunderBlitz",
+      "DONNER"
     ]
   },
   "2851066": {
-    "name": "Formal_Frank",
-    "alias": []
+    "name": "Future_Frank",
+    "alias": [
+      "Formal_Frank"
+    ]
   },
   "3028402": {
     "name": "Benji_beanz",
@@ -42,9 +45,10 @@
     "alias": []
   },
   "3514626": {
-    "name": "LierenTheSecond",
+    "name": "Lieren",
     "alias": [
-      "Lirien"
+      "Lirien",
+      "LierenTheSecond"
     ]
   },
   "3586982": {
@@ -67,5 +71,5 @@
     "name": "think-tank",
     "alias": []
   },
-  "_lastUpdated": "2025-07-06T23:15:35.051Z"
+  "_lastUpdated": "2025-07-06T23:19:40.088Z"
 }
