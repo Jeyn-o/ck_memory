@@ -20,10 +20,10 @@
     "alias": []
   },
   "2684774": {
-    "name": "HAGELSTURM",
+    "name": "ThunderBlitz",
     "alias": [
-      "ThunderBlitz",
-      "DONNER"
+      "DONNER",
+      "HAGELSTURM"
     ]
   },
   "2851066": {
@@ -71,5 +71,5 @@
     "name": "think-tank",
     "alias": []
   },
-  "_lastUpdated": "2025-07-06T23:19:40.088Z"
+  "_lastUpdated": "2025-07-06T23:34:49.952Z"
 }
